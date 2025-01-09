@@ -1,4 +1,4 @@
-# Clickstream Data Analysis Project
+# Web Clickstream Analysis for User Behavior.
 
 ## Introduction
 
